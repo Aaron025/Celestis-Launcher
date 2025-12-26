@@ -1,7 +1,7 @@
 {
     "name": "Celestis-Launcher",
     "preductname": "Celestis Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Celestis",
     "main": "src/app.js",
     "author": {
