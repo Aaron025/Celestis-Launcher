@@ -1,7 +1,7 @@
 {
     "name": "Celestis-Launcher",
     "preductname": "Celestis Launcher",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur Celestis",
     "main": "src/app.js",
     "author": {
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=http://151.242.255.142/Untitled_design_37.png"
+        "icon": "node build.js --icon="
     },
     "license": "CCANC",
     "nodemonConfig": {
